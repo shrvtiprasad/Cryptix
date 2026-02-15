@@ -88,4 +88,4 @@ cryptix_sar/
 
 ---
 
-*Team CRYPTIX — AML Hackathon 2025*
+*Team CRYPTIX*
