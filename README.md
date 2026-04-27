@@ -1,5 +1,4 @@
 # 🔐 CRYPTIX SAR Intelligence Platform
-### Hackathon Demo — Team CRYPTIX
 
 ---
 
